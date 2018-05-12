@@ -1,0 +1,34 @@
+_repo: M-moires-du-mar-chal-Marmont-duc-de-Raguse--9-9-_34620
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Marmont, Auguste Frédéric Louis Viesse de, duc de Raguse
+    aliases:
+    - Marmont, Auguste Frederic Louis Viesse de, duc de Raguse
+    - De Marmont, Auguste Frédéric Louis Viesse, duc de Raguse
+    birthdate: 1774
+    deathdate: 1852
+    gutenberg_agent_id: '32686'
+    url: http://www.gutenberg.org/2009/agents/32686
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Auguste_de_Marmont
+    - http://fr.wikipedia.org/wiki/Auguste_Fr%C3%A9d%C3%A9ric_Louis_Viesse_de_Marmont
+description: ''
+gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2010-12-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34620'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- History -- 1789-1900'
+- !lcc 'DC'
+- !lcsh 'Marmont, Auguste Frédéric Louis Viesse de, duc de Raguse, 1774-1852'
+title: Mémoires du maréchal Marmont, duc de Raguse (9/9)
+url: http://www.gutenberg.org/ebooks/34620
